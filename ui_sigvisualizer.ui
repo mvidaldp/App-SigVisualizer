@@ -50,7 +50,7 @@
       </property>
       <column>
        <property name="text">
-        <string notr="true">1</string>
+        <string notr="true">0</string>
        </property>
       </column>
      </widget>
